@@ -4,14 +4,14 @@ No documents yet
 
 ## Tree
 
-grc/: gnuRadio file
-wav/: Recorded .wav file
-chirpset/: Chirp .wav and the corresponding matched filter .cvd files
-dataset/: Range profile logmag files
-tdma/: TDMA julia programs
-tools/: Misc. tools
+* grc/: gnuRadio file
+* wav/: Recorded .wav file
+* chirpset/: Chirp .wav and the corresponding matched filter .cvd files
+* dataset/: Range profile logmag files
+* tdma/: TDMA julia programs
+* tools/: Misc. tools
 
-hardware/: KiCad files for syncricket board
+* hardware/: KiCad files for syncricket board
 
 [> Links
 -------------
