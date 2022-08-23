@@ -12,6 +12,7 @@ No documents yet
 * tools/: Misc. tools
 
 * hardware/: KiCad files for syncricket board
+* firmware/: esp-idf projects for syncricket and synctrig firmwares
 
 [> Links
 -------------

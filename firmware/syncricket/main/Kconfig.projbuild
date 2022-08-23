@@ -1,0 +1,33 @@
+menu "SynCricket Configuration"
+
+config WIFI_SSID
+    string "WIFI access point name (SSID)"
+    default "ssidofAP"
+    help
+        Enter the name of the WIFI access point
+
+config WIFI_PASSWORD
+    string "WIFI password"
+    default "w1f1p@$$wOrd"
+    help
+        Enter ssid password
+
+config WIFI_MAXIMUM_RETRY
+    int "WiFi max retry"
+    default 5
+    help
+        WiFi max retry count
+
+config TCP_SERVER_ADDRESS
+    string "IPV4 Address"
+    default "192.168.0.165"
+    help
+	TCP server address
+
+config TCP_PORT
+    int "TCP port"
+    default 6000
+    help
+        TCP port used for command
+
+endmenu
